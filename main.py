@@ -37,4 +37,4 @@ draw_line(XRES/2, 0, XRES/2, YRES-1, s, c);
 display(s)
 save_ppm(s, 'binary.ppm')
 save_ppm_ascii(s, 'ascii.ppm')
-save_extension(s, 'img.png')
+#save_extension(s, 'img.png')
